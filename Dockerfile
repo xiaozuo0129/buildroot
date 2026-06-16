@@ -1,1 +1,1 @@
-docker pull openwrt/buildroot:latest
+openwrt/buildroot:latest
