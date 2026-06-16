@@ -1,1 +1,1 @@
-from openwrt/buildroot:latest
+from ghcr.io/mwarning/openwrt-builder:latest
