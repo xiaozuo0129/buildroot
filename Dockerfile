@@ -1,1 +1,1 @@
-openwrt/buildroot:latest
+from openwrt/buildroot:latest
